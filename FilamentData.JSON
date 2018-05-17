@@ -209,7 +209,7 @@
 	"ITEM": "MakerBot PLA FILAMENT is the best and most consistent FILAMENT optimized for use in MakerBot's 5th Generation Line of 3D Printers. This size is for use in the MakerBot Replicator Z18 3D Printer and requires the MakerBot FILAMENT Case. All MakerBot FILAMENT is manufactured to produce the highest quality 3D prints and is trusted by leading companies and institutions the world over, thanks to state-of-the-art FILAMENT manufacturing and quality control standards.",
     "BRAND": "MakerBot"
   },
-  {"PRODUCT": "White Dissolvable FILAMENT",
+  {"PRODUCT": "White Dissolvable Filement",
     "TEMP": "250°C",
     "FILAMENT": "Dissolvable",
     "AMOUNT": "2.2lb",
@@ -222,7 +222,7 @@
 	"ITEM": "MakerBot Dissolvable FILAMENT is the best, most consistent, and most tested dissolvable support FILAMENT for your MakerBot Replicator 2X Experimental 3D Printer. It is optimized for this 3D printer and specifically designed for use as a solid infill material with MakerBot ABS FILAMENT.",
     "BRAND": "MakerBot"
   },
-  {"PRODUCT": "Flexible White FILAMENT",
+  {"PRODUCT": "Flexible White Filament",
     "TEMP": "100°C",
     "FILAMENT": "TPU",
     "AMOUNT": "2.2lb",
@@ -253,7 +253,7 @@
     "FILAMENT": "PLA",
     "AMOUNT": "2.2lb",
     "STOCK": "22",
-    "ORDER": "22",
+    "ORDER": "2",
     "PRICE": "460",
     "MSRP": "1.3",
     "SIZE": "1.75",
